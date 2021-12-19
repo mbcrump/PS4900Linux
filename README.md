@@ -1,7 +1,7 @@
 # PS4 900 Jailbreak Linux
 
-ARCH Linux - You'll also need to download the image here - https://www.psxita.it/distro/psxitarch.tar.xz
-Gentoo Linux - https://drive.google.com/uc?id=1o5zYErfHAeZnOR1beeN4syeuKW77VDjA&export=download
+- ARCH Linux - You'll also need to download the image here - https://www.psxita.it/distro/psxitarch.tar.xz
+- Gentoo Linux - https://drive.google.com/uc?id=1o5zYErfHAeZnOR1beeN4syeuKW77VDjA&export=download
 
 # Other videos that you might like:
 
