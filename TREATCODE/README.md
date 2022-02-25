@@ -1,3 +1,5 @@
+ALL CODES ARE ACTIVE! ENJOY AND DON'T FORGET TO LIKE THE VIDEO - https://www.youtube.com/watch?v=5Xmi2BO9E30
+
 PS5 TREAT CODE 1
 Code: L2, Triangle, R1, Circle, L1, X, <, >, R2, Square
 
@@ -79,5 +81,5 @@ Answer: 2500000000
 PS5 TREAT CODE 14
 Code: <, L2, Triangle, >, Circle, R2, X, Square, R1, L1
 
-Question: TBD (Doesn’t currently redeem.)
-Answer: TBD (Doesn’t currently redeem.)
+Question: During December 2021, how many hours did players use ‘Spotify’ and ‘Apple Music’ apps globally? (PS5 and PS4)?
+Answer: 111000000
