@@ -18,3 +18,5 @@ Notes:
 Official bd-j repo: https://github.com/psxdev/bd-jb
 
 This does **NOT** work with DVDs. https://twitter.com/Sameer01988388/status/1538157532220248065
+
+Xbox Implementation - https://twitter.com/Shykelit1/status/1538413703778881537
