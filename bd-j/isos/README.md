@@ -1,5 +1,6 @@
 The ISO images floating around for BD-J implementation. 
 
+Watch the [video](https://www.youtube.com/watch?v=8jEG-pq2sXs) if you want a further explanation of the ISO images and payloads mentioned below.
 
 |Filename   	|Description   	|
 |---	|---	|
