@@ -7,7 +7,8 @@ Watch the [video](https://www.youtube.com/watch?v=8jEG-pq2sXs) if you want a fur
 |Doom-BluPlay.iso   	|Not an exploit but a way to play Doom on compatible consoles (Xbox, PS4, PS5, etc.)   	|
 |bd-jb.iso   	|sleirsgoevy implementation - it waits for a payload   	|
 |ret.bin   	|Payload that returns "Hello World"   	|
-|notify.bin   	|Payload that pops a notification box   	|
+|notify.bin/notification.elf   	|Payload that pops a notification box  - Send the notify.bin payload first, then the elf 	|
+|ftp.bin/ftp.elf   	|Payload that creates an FTP Server  - Send the notify.bin payload first, then the elf 	|
 |bigboss.iso   	|bigboss implementation - it waits for a payload  	|
 |sample.iso   	|Returns file listing automatically without sending a payload    	|
 |Minimal BD-J (Java) Devkit for PS3.zip   	|Used to create compatible BD-J images (not using the exploit)   	|
