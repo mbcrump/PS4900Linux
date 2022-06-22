@@ -6,6 +6,7 @@ Watch the [video](https://www.youtube.com/watch?v=8jEG-pq2sXs) if you want a fur
 |---	|---	|
 |Doom-BluPlay.iso   	|Not an exploit but a way to play Doom on compatible consoles (Xbox, PS4, PS5, etc.)   	|
 |bd-jb.iso   	|sleirsgoevy implementation - it waits for a payload   	|
+|bd-jb-v2.iso   	|The 6/20 release from sleirsgoevy - it waits for a payload   	|
 |ret.bin   	|Payload that returns "Hello World"   	|
 |notify.bin/notification.elf   	|Payload that pops a notification box - use either 	|
 |ftp.bin/ftp.elf   	|Payload that creates an FTP Server - use either 	|
