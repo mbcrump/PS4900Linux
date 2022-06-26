@@ -10,6 +10,7 @@ Watch the [video](https://www.youtube.com/watch?v=8jEG-pq2sXs) if you want a fur
 |[ret.bin](https://github.com/mbcrump/PS4900Linux/blob/main/bd-j/isos/ret.bin)   	|Payload that returns "Hello World"   	|
 |[notify.bin](https://github.com/mbcrump/PS4900Linux/blob/main/bd-j/isos/notify.bin)/[notification.elf](https://github.com/mbcrump/PS4900Linux/blob/main/bd-j/isos/notification.elf)   	|Payload that pops a notification box - use either 	|
 |[ftp.bin](https://github.com/mbcrump/PS4900Linux/blob/main/bd-j/isos/ftp.bin)/[ftp.elf](https://github.com/mbcrump/PS4900Linux/blob/main/bd-j/isos/bd-jb/ftp.elf)   	|Payload that creates an FTP Server - SiSTRO version that auto-resolves IP 	|
+|[ftp-v2.bin](https://github.com/mbcrump/PS4900Linux/blob/main/bd-j/isos/ftp-v2.bin)   	|Payload that creates an FTP Server that works on 9.00 with the 6.20 sleirsgoevy iso - 06-26-22 version 	|
 |[ftp-manual.bin](https://github.com/mbcrump/PS4900Linux/blob/main/bd-j/isos/ftp-manual.bin)/[ftp-manual.elf](https://github.com/mbcrump/PS4900Linux/blob/main/bd-j/isos/bd-jb/ftp-manual.elf)   	|Payload that creates an FTP Server - ORIGINAL version that requires manual IP configuration 	|
 |[bigboss.iso](https://github.com/mbcrump/PS4900Linux/blob/main/bd-j/isos/bigboss.iso)   	|bigboss implementation - it waits for a payload  	|
 |[sample.iso](https://github.com/mbcrump/PS4900Linux/blob/main/bd-j/isos/sample.iso)   	|Returns file listing automatically without sending a payload    	|
