@@ -7,6 +7,7 @@ Watch the [video](https://www.youtube.com/watch?v=8jEG-pq2sXs) if you want a fur
 |[Doom-BluPlay.iso](https://github.com/mbcrump/PS4900Linux/blob/main/bd-j/isos/Doom-BluPlay.iso)   	|Not an exploit but a way to play Doom on compatible consoles (Xbox, PS4, PS5, etc.)   	|
 |[bd-jb.iso](https://github.com/mbcrump/PS4900Linux/blob/main/bd-j/isos/bd-jb.iso)   	|sleirsgoevy original implementation - it waits for a payload   	|
 |[bd-jb-v2.iso](https://github.com/mbcrump/PS4900Linux/blob/main/bd-j/isos/bd-jb-v2.iso)   	|The 6/20 release from sleirsgoevy - it waits for a payload   	|
+|[bd-jb-ps5.iso](https://github.com/mbcrump/PS4900Linux/blob/main/bd-j/isos/bd-jb-ps5.iso)   	|The 8/13 release from sleirsgoevy - it lists app0 and /   	|
 |[ret.bin](https://github.com/mbcrump/PS4900Linux/blob/main/bd-j/isos/ret.bin)   	|Payload that returns "Hello World"   	|
 |[notify.bin](https://github.com/mbcrump/PS4900Linux/blob/main/bd-j/isos/notify.bin)/[notification.elf](https://github.com/mbcrump/PS4900Linux/blob/main/bd-j/isos/notification.elf)   	|Payload that pops a notification box - use either 	|
 |[ftp.bin](https://github.com/mbcrump/PS4900Linux/blob/main/bd-j/isos/ftp.bin)/[ftp.elf](https://github.com/mbcrump/PS4900Linux/blob/main/bd-j/isos/bd-jb/ftp.elf)   	|Payload that creates an FTP Server - SiSTRO version that auto-resolves IP 	|
