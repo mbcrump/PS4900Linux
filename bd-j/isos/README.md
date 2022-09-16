@@ -16,6 +16,7 @@ Watch the [video](https://www.youtube.com/watch?v=8jEG-pq2sXs) if you want a fur
 |[bigboss.iso](https://github.com/mbcrump/PS4900Linux/blob/main/bd-j/isos/bigboss.iso)   	|bigboss implementation - it waits for a payload  	|
 |[sample.iso](https://github.com/mbcrump/PS4900Linux/blob/main/bd-j/isos/sample.iso)   	|Returns file listing automatically without sending a payload    	|
 |[Minimal BD-J (Java) Devkit for PS3.zip](https://github.com/mbcrump/PS4900Linux/blob/main/bd-j/isos/Minimal%20BD-J%20(Java)%20Devkit%20for%20PS3.zip)   	|Used to create compatible BD-J images (not using the exploit)   	|
+|[ps5-lua-server.iso](https://github.com/mbcrump/PS4900Linux/blob/main/bd-j/isos/ps5-lua-server.iso)   	|LUA Server for PS5 BD-J (use scripts folder for samples)    	|
 
 Burn .ISO files with https://www.imgburn.com/
 
