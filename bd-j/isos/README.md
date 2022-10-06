@@ -1,6 +1,20 @@
-The ISO images floating around for BD-J implementation. 
+## Reason for the Repo
 
-Watch the [video](https://www.youtube.com/watch?v=8jEG-pq2sXs) if you want a further explanation of the ISO images and payloads mentioned below.
+There are a number of BD-JB ISO images and payloads floating around on mega.nz and other places that could be removed at any moment. I took the time to archive them here for future research. 
+
+I have a recent videos that shows how to use the recent 4.03 BD-JB and the PS5 FTP Payload that might help.  
+
+- [Setting up an FTP Server and viewing PS5 Game Disks with BD-JB on PS5 4.03](https://www.youtube.com/watch?v=mhR5FFUAmNU)
+
+## PS5 4.03 BD-JB related ISOs / Payloads 
+|Filename   	|Description   	|
+|---	|---	|
+|[ps5-listdir-root.iso](https://github.com/mbcrump/PS4900Linux/blob/main/bd-j/isos/ps5-listdir-root.iso)   	|PS5 rootvnode listdir PoC Released by sleirsgoevy on 10/03   	|
+|[bd-jb-ps5-payload.iso](https://github.com/mbcrump/PS4900Linux/blob/main/bd-j/isos/bd-jb-ps5-payload.iso)   	|BD-JB w/ payload support (port 9019)(Released by sleirsgoevy on 10/04   	|
+|[bd-jb-ps5-payload-2.iso](https://github.com/mbcrump/PS4900Linux/blob/main/bd-j/isos/bd-jb-ps5-payload-2.iso)   	|Updated payload server, cleans up Released by sleirsgoevy on 10/05   	|
+|[ps5ftppayload.bin](https://github.com/mbcrump/PS4900Linux/blob/main/bd-j/isos/ps5ftppayload.bin)   	|PS5 FTP Payload for 4.03 Released by SiSTRO and Control Execute   	|
+
+## Prior to the PS5 4.03 BD-JB 
 
 |Filename   	|Description   	|
 |---	|---	|
